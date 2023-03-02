@@ -4,6 +4,6 @@ public class gitJenkinsTrialClassOne
 {
 	public void PrintHello()
 	{
-		System.out.println("Say Hello to Jenkins and GitHub ! Huh !!");
+		System.out.println("Say Hello to Jenkins and GitHub !");
 	}
 }
